@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="300" viewBox="0 0 240 300">
+  <title>Signal Flow placeholder emblem — not the original tabard</title>
+  <defs>
+    <linearGradient id="navy" x2="0" y2="1">
+      <stop stop-color="#213b60"/><stop offset="1" stop-color="#0a1427"/>
+    </linearGradient>
+  </defs>
+  <path d="M28 20h184v190l-92 70-92-70z" fill="url(#navy)" stroke="#c8a55d" stroke-width="5"/>
+  <path d="M40 32h160v170l-80 62-80-62z" fill="none" stroke="#c8a55d" stroke-opacity=".35"/>
+  <path d="M65 103h110M65 153h110M65 203h110" stroke="#dce5ee" stroke-width="7"/>
+  <path d="m99 75 42 56-42 56 42 56" fill="none" stroke="#c8a55d" stroke-width="12"/>
+  <circle cx="120" cy="49" r="5" fill="#c8a55d"/>
+</svg>
