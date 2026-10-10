@@ -1,0 +1,9 @@
+{
+  "name": "wow-signalflow-guild-site",
+  "version": "1.0.0",
+  "description": "World of Warcraft Signal Flow Guild Website",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "private": true
+}
